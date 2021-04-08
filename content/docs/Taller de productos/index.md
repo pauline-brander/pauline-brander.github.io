@@ -13,7 +13,7 @@ summary: Registro de las actividades realizadas en este taller.
 
 {{< pdf-viewer id="pdf-hugo" link="/pdf/FDM.pdf" >}}
 
-# Unidad Parametric Furniture
+# Unidad uno Parametric furniture
 
 ## Galería imágenes silla
 
