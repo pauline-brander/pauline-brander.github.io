@@ -3,7 +3,7 @@ title: 'Biografía'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 1
-summary: Mi bibliografía
+summary: Un poco de mi y algunos trabajos
 ---
 
 # Quién soy?
@@ -21,6 +21,7 @@ Para mi el dibujo y pintura es más que nada un hobbie
 ## Examen Modelación 3D y 2D - 2021 "Opera house"
 {{< youtube jZOksY-nn90 >}}
 Para este trabajo tuvimos que diseñar un objeto o "algo" que nos identificara o sea importante para cada uno, es por esto que decidí modelar el Opera House de Sydney, ya que durante los años 2013 y 2014 con mi familia vivimos en Australia, donde aprendi sobre diferentes culturas y aprendí mucho sobre la vida. 
+El programa utilizado para realizar este modelo en 3D fue Rhino 6.
 ### Galería fotos
 {{< gallery dir="/img/galeriaopera/" />}} {{< load-photoswipe >}}
 
@@ -28,6 +29,7 @@ Para este trabajo tuvimos que diseñar un objeto o "algo" que nos identificara o
 ## Examen Programación para diseño - 2021 "Libreria Rapana Bulgaria" 
 {{< youtube 2RJAUrjz6vg >}}
 Para el ramo de "programación para diseño, utilizamos Grasshoper para programar. Nos pidieron programar algo que nos guste y/o identificara por lo que decidí hacer una copia de la "librería Rapana de Bulgaria", la razón del ¿porque una librería? la respuesta es simple, a mi papá le encanta leer y es algo que tenemos en común. 
+El programa utilizado para realizar este modelo fue Grasshopper el cual es una extensión de Rhino 6. 
 ## Galería fotos
 {{< gallery dir="/img/galeriagrasshopper/" />}} {{< load-photoswipe >}}
 
